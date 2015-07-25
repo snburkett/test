@@ -1,2 +1,3 @@
 this is a test text file
-it contains two lines of text
+it is not particularly interesting
+it contains three lines of text
